@@ -1,2 +1,3 @@
-# mobile-money
+# momo project
+
 for mobile money transations
